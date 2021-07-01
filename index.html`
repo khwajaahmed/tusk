@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p> This is a demo paragraph </p>
+    <p> This is a original paragraph </p>
     <script src="hello.js">   
       
     </script>
